@@ -50,10 +50,10 @@ WHEN I decide to finish building my team
 
 THEN I exit the application, and the HTML is generated
 # Image
-![Alt text](assets/Team-Profile.png)
 
+![team names](assets/team.png)
 
-
+![Alt text](assets/screenshot.png)
 
 # Links 
 deloyed Web:
